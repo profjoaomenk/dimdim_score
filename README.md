@@ -18,7 +18,6 @@ Ferramenta simples para calcular pontuação de clientes baseada em transações
 ## 📋 Funcionalidades
 
 - 10 pontos por transação
-- +100 pontos de bônus para clientes VIP
 
 
 ## 🛠️ Requisitos
